@@ -1,4 +1,6 @@
 #!/bin/bash
+#June 3, 2019
+#By Robert John Canare
 
 ####################required input################
 website="yourwebsite.com"
